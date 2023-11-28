@@ -1,0 +1,4 @@
+META-INF/panache-archive.marker
+org/acme/entity/Task.class
+org/acme/GreetingResource.class
+org/acme/TaskResource.class
